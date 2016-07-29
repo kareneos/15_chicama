@@ -1,0 +1,42 @@
+*{
+	padding: 1% 0%;
+}
+#imageng{
+	background-image: url("../img/grupal.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 130%;
+	height: 600px;
+}
+a{
+	text-decoration: none;
+	color:black;
+}
+img{
+	width: 100%;
+}
+button{
+	background-color: #F7B73F;
+	padding: 5% 10%;
+	border:none;
+	margin-left: 50%;
+}
+li{
+	display: inline-block;
+	margin-left: 1%
+}
+/*IMAGENES CH*/
+.esp{
+	margin-top: 3%;
+}
+p{
+	border-bottom: 1px solid black;
+	font-weight: bold;
+}
+/*FOOTER*/
+footer{
+	background-color: #323230; 
+	color: #CECECC;
+}
+.gris{
+	border-left: 2px solid #CECECC;
+}
